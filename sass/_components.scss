@@ -1,0 +1,59 @@
+.btn {
+  font-weight: 900;
+  font-size: 1.6rem;
+  line-height: 2.6rem;
+  font-style: normal;
+  transition: all 0.3s;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.btn-style-1:link,
+.btn-style-1:visited {
+  border-radius: 29px;
+  text-decoration: none;
+  padding: 1.6rem 4rem;
+  margin-right: 1.6rem;
+  background-color: var(--color-blue-dark);
+  color: var(--color-white);
+  span {
+    color: var(--color-blue-light);
+  }
+}
+
+.btn-style-2:link,
+.btn-style-2:visited {
+  border-radius: 29px;
+  text-decoration: none;
+  padding: 1.6rem 2.9rem;
+  background-color: var(--color-purple-dark);
+  color: var(--color-white);
+  span {
+    color: var(--color-purple-light);
+  }
+}
+
+.btn-style-1:active,
+.btn-style-1:hover {
+  border-radius: 29px;
+  text-decoration: none;
+  padding: 1.6rem 4rem;
+  margin-right: 1.6rem;
+  background-color: var(--color-blue-active);
+  color: var(--color-white);
+  span {
+    color: var(--color-blue-light);
+  }
+}
+
+.btn-style-2:active,
+.btn-style-2:hover {
+  border-radius: 29px;
+  text-decoration: none;
+  padding: 1.6rem 2.9rem;
+  background-color: var(--color-purple-active);
+  color: var(--color-white);
+  span {
+    color: var(--color-purple-light);
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "meet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  },
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Ryan Sheehan",
+  "license": "ISC",
+  "description": ""
+}
