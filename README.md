@@ -1,8 +1,6 @@
 # Meet - Responsive Landing Page
 
-The goal of this project is to demonstrate responsive web development.
-
-"Meet" is a hypothetical platform that makes it easy to connect with others face-to-face virtually and collaborate across any device.
+"Meet" is a hypothetical messagaing and video calling platform that makes it easy to connect with others face-to-face virtually and collaborate across any device.
 
 ## Table of contents
 
@@ -21,12 +19,16 @@ The goal of this project is to demonstrate responsive web development.
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size (e.g. responsive design)
+- View the optimal layout depending on their device's screen size, including desktop, tablet, and mobile (e.g. responsive design)
 - See hover states for interactive elements (e.g. buttons)
 
 ### Screenshot
 
+Desktop Layout
 ![](./meet-desktop.png)
+
+Tablet Layout
+![](./meet-tablet.png)
 
 ### Links
 

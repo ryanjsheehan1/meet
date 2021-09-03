@@ -1,3 +1,4 @@
+// Button selector
 .btn {
   font-weight: 900;
   font-size: 1.6rem;
@@ -8,6 +9,7 @@
   display: inline-block;
 }
 
+// Link and visited state for blue style button
 .btn-style-1:link,
 .btn-style-1:visited {
   border-radius: 29px;
@@ -21,6 +23,7 @@
   }
 }
 
+// Link and visited state for purple style button
 .btn-style-2:link,
 .btn-style-2:visited {
   border-radius: 29px;
@@ -33,6 +36,7 @@
   }
 }
 
+// Active and hover state for blue style button
 .btn-style-1:active,
 .btn-style-1:hover {
   border-radius: 29px;
@@ -46,6 +50,7 @@
   }
 }
 
+// Active and hover state for purple style button
 .btn-style-2:active,
 .btn-style-2:hover {
   border-radius: 29px;
