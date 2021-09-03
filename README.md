@@ -27,9 +27,6 @@ Users should be able to:
 Desktop Layout
 ![](./meet-desktop.png)
 
-Tablet Layout
-![](./meet-tablet.png)
-
 ### Links
 
 - Live Site URL: [https://ryanjsheehan1.github.io/meet/](https://ryanjsheehan1.github.io/meet/)
